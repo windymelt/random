@@ -1,0 +1,6 @@
+.bsp/
+.bloop/
+.metals/
+target/
+
+*.~undo-tree~
